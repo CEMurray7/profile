@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  "profile.html"
+  file.Read(public/profile.html)
 end
