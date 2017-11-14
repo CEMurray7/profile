@@ -27,6 +27,8 @@ a {
 }*/
 body {
     outline: #8B0000 solid ;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
 iv {
